@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'magilla_app',
     'category',
     'account',
+    'store',
 
 
 ]
